@@ -6,7 +6,7 @@ import software.amazon.awscdk.StackProps;
 
 import java.util.Arrays;
 
-public class SantasworkshopApp {
+public class SantasworkshopApp { 
     public static void main(final String[] args) {
         App app = new App();
 
